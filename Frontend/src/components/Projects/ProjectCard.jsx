@@ -2,7 +2,7 @@ import { HiOutlineExternalLink } from "react-icons/hi";
 import { HiOutlineArrowUpRight } from "react-icons/hi2";
 import { SiGithub } from "react-icons/si";
 import { motion } from "framer-motion";
-const PROJECT_IMAGE = "/movers&packers.png";
+const PROJECT_IMAGE = "/images/movers&packers.png";
 
 export default function ProjectCard({ project, onOpenCaseStudy }) {
   return (

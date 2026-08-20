@@ -54,7 +54,7 @@ export default function Hero() {
             <a href="#projects" className="btn-secondary-light">
               View my work
             </a>
-            <a href="/resume.pdf" download className="btn-secondary-light">
+            <a href="/images/resume.pdf" download className="btn-secondary-light">
               Download resume <HiOutlineDownload />
             </a>
           </motion.div>

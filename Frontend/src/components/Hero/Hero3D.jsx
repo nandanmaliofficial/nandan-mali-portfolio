@@ -3,7 +3,7 @@ import { Canvas, useFrame } from "@react-three/fiber";
 import { Html, Float } from "@react-three/drei";
 
 // Photo path: drop your headshot in /public as profile.jpg and it'll load here.
-const PROFILE_IMAGE = "/profile.jpg";
+const PROFILE_IMAGE = "/images/profile.jpg";
 
 function useReducedMotionFlag() {
   const [reduced, setReduced] = useState(false);
