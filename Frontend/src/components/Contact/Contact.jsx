@@ -83,13 +83,13 @@ export default function Contact() {
 
           <div className="flex flex-col gap-4">
             <a
-              href="mailto:your-email@example.com"
+              href="mailto:nandanmaliofficial@gmail.com"
               className="flex items-center gap-3 text-sm text-ink/70 hover:text-copper transition-colors"
             >
-              <HiOutlineMail className="text-lg" /> your-email@example.com
+              <HiOutlineMail className="text-lg" /> nandanmaliofficial@gmail.com
             </a>
             <a
-              href="https://linkedin.com/in/your-profile"
+              href="https://www.linkedin.com/in/nandan-mali/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 text-sm text-ink/70 hover:text-copper transition-colors"
@@ -97,7 +97,7 @@ export default function Contact() {
               <FaLinkedin className="text-lg" /> LinkedIn <HiOutlineExternalLink className="text-xs" />
             </a>
             <a
-              href="https://github.com/your-username"
+              href="https://github.com/nandanmaliofficial"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 text-sm text-ink/70 hover:text-copper transition-colors"

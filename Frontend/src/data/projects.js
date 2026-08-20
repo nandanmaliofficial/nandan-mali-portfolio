@@ -12,8 +12,8 @@ const projects = [
     description:
       "A real-world logistics and relocation web application built during my internship — covering booking workflows, role-based access, admin tooling and partner-side functionality.",
     tech: ["React.js", "Node.js", "Express.js", "MongoDB", "REST APIs"],
-    liveUrl: "https://movers-packers-logistics.vercel.app",
-    githubUrl: "https://github.com/NandanMali/movers-packers-logistics",
+    liveUrl: "https://movers-packers-platform.vercel.app/",
+    githubUrl: "https://github.com/nandanmaliofficial/movers-packers-platform",
     caseStudy: {
       overview:
         "A booking and operations platform for a movers-and-packers business, connecting customers, partners and admins in one system.",

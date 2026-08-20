@@ -20,9 +20,34 @@ const services = [
     description: "REST APIs, authentication, database integration and backend functionality.",
   },
   {
+    icon: "credit-card",
+    title: "Payment integration",
+    description: "Payment gateway integration for websites and web applications.",
+  },
+  {
+    icon: "link",
+    title: "API integration",
+    description: "Integration of third-party APIs and external services into existing applications.",
+  },
+  {
+    icon: "landing",
+    title: "Landing page development",
+    description: "Modern, responsive landing pages for businesses, products and services.",
+  },
+  {
+    icon: "refresh",
+    title: "Technology modernization",
+    description: "Upgrading existing websites and applications to modern technologies and frameworks.",
+  },
+  {
     icon: "tool",
     title: "Website improvements & bug fixing",
     description: "Improving existing websites — fixing issues, enhancing responsiveness, adding functionality.",
+  },
+  {
+    icon: "wordpress",
+    title: "WordPress development",
+    description: "Budget-friendly WordPress websites, customization and functionality improvements.",
   },
 ];
 

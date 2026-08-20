@@ -35,7 +35,7 @@ export default function Footer() {
 
         <div className="flex gap-5">
           <a
-            href="https://github.com/your-username"
+            href="https://github.com/nandanmaliofficial"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
@@ -44,7 +44,7 @@ export default function Footer() {
             <SiGithub />
           </a>
           <a
-            href="https://linkedin.com/in/your-profile"
+            href="https://www.linkedin.com/in/nandan-mali/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
