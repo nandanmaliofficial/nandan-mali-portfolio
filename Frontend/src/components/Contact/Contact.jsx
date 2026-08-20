@@ -108,7 +108,7 @@ export default function Contact() {
         </Reveal>
 
         <Reveal delay={0.1}>
-          <form  noValidate className="flex flex-col gap-5">
+          <form onSubmit={handleSubmit} noValidate className="flex flex-col gap-5">
             <div className="grid sm:grid-cols-2 gap-5">
               <Field label="Name" name="name" value={form.name} onChange={handleChange} error={errors.name} required />
               <Field
@@ -150,7 +150,6 @@ export default function Contact() {
 
             <motion.button
               whileTap={{ scale: 0.97 }}
-              onClick={handleSubmit}
               disabled={status === "loading"}
               className="btn-primary w-fit"
             >
